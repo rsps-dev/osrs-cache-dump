@@ -1,0 +1,1906 @@
+[
+  {
+    "id": 0,
+    "fileIds": [
+      447
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5654,
+    "texID": {}
+  },
+  {
+    "id": 1,
+    "fileIds": [
+      448
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 40269,
+    "texID": {}
+  },
+  {
+    "id": 2,
+    "fileIds": [
+      449
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6183,
+    "texID": {}
+  },
+  {
+    "id": 3,
+    "fileIds": [
+      450
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 4636,
+    "texID": {}
+  },
+  {
+    "id": 4,
+    "fileIds": [
+      451
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6678,
+    "texID": {}
+  },
+  {
+    "id": 5,
+    "fileIds": [
+      452
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6024,
+    "texID": {}
+  },
+  {
+    "id": 6,
+    "fileIds": [
+      453
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 2473,
+    "texID": {}
+  },
+  {
+    "id": 7,
+    "fileIds": [
+      454
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 7057,
+    "texID": {}
+  },
+  {
+    "id": 8,
+    "fileIds": [
+      455
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 12818,
+    "texID": {}
+  },
+  {
+    "id": 9,
+    "fileIds": [
+      456
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5927,
+    "texID": {}
+  },
+  {
+    "id": 10,
+    "fileIds": [
+      530
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 8233,
+    "texID": {}
+  },
+  {
+    "id": 11,
+    "fileIds": [
+      457
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5155,
+    "texID": {}
+  },
+  {
+    "id": 12,
+    "fileIds": [
+      458
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 18,
+    "texID": {}
+  },
+  {
+    "id": 13,
+    "fileIds": [
+      459
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 32847,
+    "texID": {}
+  },
+  {
+    "id": 14,
+    "fileIds": [
+      460
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5295,
+    "texID": {}
+  },
+  {
+    "id": 15,
+    "fileIds": [
+      461
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 47161,
+    "texID": {}
+  },
+  {
+    "id": 16,
+    "fileIds": [
+      462
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6934,
+    "texID": {}
+  },
+  {
+    "id": 17,
+    "fileIds": [
+      463
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 39640,
+    "texID": {}
+  },
+  {
+    "id": 18,
+    "fileIds": [
+      464
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 9534,
+    "texID": {}
+  },
+  {
+    "id": 19,
+    "fileIds": [
+      465
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5405,
+    "texID": {}
+  },
+  {
+    "id": 20,
+    "fileIds": [
+      466
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5662,
+    "texID": {}
+  },
+  {
+    "id": 21,
+    "fileIds": [
+      467
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6673,
+    "texID": {}
+  },
+  {
+    "id": 22,
+    "fileIds": [
+      468
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 4512,
+    "texID": {}
+  },
+  {
+    "id": 23,
+    "fileIds": [
+      469
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 7446,
+    "texID": {}
+  },
+  {
+    "id": 24,
+    "fileIds": [
+      531
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 40269,
+    "texID": {}
+  },
+  {
+    "id": 25,
+    "fileIds": [
+      470
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 29101,
+    "texID": {}
+  },
+  {
+    "id": 26,
+    "fileIds": [
+      471
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 81,
+    "texID": {}
+  },
+  {
+    "id": 27,
+    "fileIds": [
+      472
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5648,
+    "texID": {}
+  },
+  {
+    "id": 28,
+    "fileIds": [
+      473
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 21534,
+    "texID": {}
+  },
+  {
+    "id": 29,
+    "fileIds": [
+      474
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 13862,
+    "texID": {}
+  },
+  {
+    "id": 30,
+    "fileIds": [
+      475
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 12698,
+    "texID": {}
+  },
+  {
+    "id": 31,
+    "fileIds": [
+      476
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6089,
+    "texID": {}
+  },
+  {
+    "id": 32,
+    "fileIds": [
+      477
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5541,
+    "texID": {}
+  },
+  {
+    "id": 33,
+    "fileIds": [
+      478
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5009,
+    "texID": {}
+  },
+  {
+    "id": 34,
+    "fileIds": [
+      479
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 9443,
+    "texID": {}
+  },
+  {
+    "id": 35,
+    "fileIds": [
+      480
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 7484,
+    "texID": {}
+  },
+  {
+    "id": 36,
+    "fileIds": [
+      481
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 3733,
+    "texID": {}
+  },
+  {
+    "id": 37,
+    "fileIds": [
+      482
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 32,
+    "texID": {}
+  },
+  {
+    "id": 38,
+    "fileIds": [
+      483
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6740,
+    "texID": {}
+  },
+  {
+    "id": 39,
+    "fileIds": [
+      484
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 13482,
+    "texID": {}
+  },
+  {
+    "id": 40,
+    "fileIds": [
+      485
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 6089,
+    "texID": {}
+  },
+  {
+    "id": 41,
+    "fileIds": [
+      486
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 10128,
+    "texID": {}
+  },
+  {
+    "id": 42,
+    "fileIds": [
+      532
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 8295,
+    "texID": {}
+  },
+  {
+    "id": 43,
+    "fileIds": [
+      487
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 10290,
+    "texID": {}
+  },
+  {
+    "id": 44,
+    "fileIds": [
+      488
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 41,
+    "texID": {}
+  },
+  {
+    "id": 45,
+    "fileIds": [
+      533
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 9256,
+    "texID": {}
+  },
+  {
+    "id": 46,
+    "fileIds": [
+      490
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 3119,
+    "texID": {}
+  },
+  {
+    "id": 47,
+    "fileIds": [
+      491
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 8403,
+    "texID": {}
+  },
+  {
+    "id": 48,
+    "fileIds": [
+      492
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6434,
+    "texID": {}
+  },
+  {
+    "id": 49,
+    "fileIds": [
+      493
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5592,
+    "texID": {}
+  },
+  {
+    "id": 50,
+    "fileIds": [
+      643
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 9380,
+    "texID": {}
+  },
+  {
+    "id": 51,
+    "fileIds": [
+      644
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5679,
+    "texID": {}
+  },
+  {
+    "id": 52,
+    "fileIds": [
+      763
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 41072,
+    "texID": {}
+  },
+  {
+    "id": 53,
+    "fileIds": [
+      861
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 35049,
+    "texID": {}
+  },
+  {
+    "id": 55,
+    "fileIds": [
+      866
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 14483,
+    "texID": {}
+  },
+  {
+    "id": 56,
+    "fileIds": [
+      1075
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 709,
+    "texID": {}
+  },
+  {
+    "id": 57,
+    "fileIds": [
+      1076
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 1,
+    "averageRGB": 108,
+    "texID": {}
+  },
+  {
+    "id": 58,
+    "fileIds": [
+      1396
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 3747,
+    "texID": {}
+  },
+  {
+    "id": 59,
+    "fileIds": [
+      318
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 1,
+    "animationDirection": 1,
+    "averageRGB": 3875,
+    "texID": {}
+  },
+  {
+    "id": 60,
+    "fileIds": [
+      1648
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 12818,
+    "texID": {}
+  },
+  {
+    "id": 61,
+    "fileIds": [
+      3024
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 43086,
+    "texID": {}
+  },
+  {
+    "id": 62,
+    "fileIds": [
+      3025
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 73,
+    "texID": {}
+  },
+  {
+    "id": 63,
+    "fileIds": [
+      3026
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 58,
+    "texID": {}
+  },
+  {
+    "id": 64,
+    "fileIds": [
+      3027
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 61,
+    "texID": {}
+  },
+  {
+    "id": 65,
+    "fileIds": [
+      3028
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55339,
+    "texID": {}
+  },
+  {
+    "id": 66,
+    "fileIds": [
+      3029
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55350,
+    "texID": {}
+  },
+  {
+    "id": 67,
+    "fileIds": [
+      3030
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 61,
+    "texID": {}
+  },
+  {
+    "id": 68,
+    "fileIds": [
+      3031
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 45,
+    "texID": {}
+  },
+  {
+    "id": 69,
+    "fileIds": [
+      3032
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 43048,
+    "texID": {}
+  },
+  {
+    "id": 70,
+    "fileIds": [
+      3033
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 43038,
+    "texID": {}
+  },
+  {
+    "id": 71,
+    "fileIds": [
+      3034
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 66,
+    "texID": {}
+  },
+  {
+    "id": 72,
+    "fileIds": [
+      3035
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 43017,
+    "texID": {}
+  },
+  {
+    "id": 73,
+    "fileIds": [
+      3036
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 63,
+    "texID": {}
+  },
+  {
+    "id": 74,
+    "fileIds": [
+      3037
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 36,
+    "texID": {}
+  },
+  {
+    "id": 75,
+    "fileIds": [
+      3038
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 41,
+    "texID": {}
+  },
+  {
+    "id": 76,
+    "fileIds": [
+      3039
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55337,
+    "texID": {}
+  },
+  {
+    "id": 77,
+    "fileIds": [
+      3040
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 54,
+    "texID": {}
+  },
+  {
+    "id": 78,
+    "fileIds": [
+      3041
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 61,
+    "texID": {}
+  },
+  {
+    "id": 79,
+    "fileIds": [
+      3042
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55355,
+    "texID": {}
+  },
+  {
+    "id": 80,
+    "fileIds": [
+      3043
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 32781,
+    "texID": {}
+  },
+  {
+    "id": 81,
+    "fileIds": [
+      3044
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 50,
+    "texID": {}
+  },
+  {
+    "id": 82,
+    "fileIds": [
+      3045
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 57,
+    "texID": {}
+  },
+  {
+    "id": 83,
+    "fileIds": [
+      3046
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 70,
+    "texID": {}
+  },
+  {
+    "id": 84,
+    "fileIds": [
+      3047
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 43066,
+    "texID": {}
+  },
+  {
+    "id": 85,
+    "fileIds": [
+      3048
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55346,
+    "texID": {}
+  },
+  {
+    "id": 86,
+    "fileIds": [
+      3049
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55342,
+    "texID": {}
+  },
+  {
+    "id": 87,
+    "fileIds": [
+      3050
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 51,
+    "texID": {}
+  },
+  {
+    "id": 88,
+    "fileIds": [
+      3023
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 42,
+    "texID": {}
+  },
+  {
+    "id": 89,
+    "fileIds": [
+      3364
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 14482,
+    "texID": {}
+  },
+  {
+    "id": 90,
+    "fileIds": [
+      3365
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 14482,
+    "texID": {}
+  },
+  {
+    "id": 91,
+    "fileIds": [
+      3523
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 38002,
+    "texID": {}
+  },
+  {
+    "id": 92,
+    "fileIds": [
+      3601
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 49262,
+    "texID": {}
+  },
+  {
+    "id": 93,
+    "fileIds": [
+      3602
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 120,
+    "texID": {}
+  },
+  {
+    "id": 94,
+    "fileIds": [
+      3603
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 4133,
+    "texID": {}
+  },
+  {
+    "id": 95,
+    "fileIds": [
+      4377
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 32,
+    "texID": {}
+  },
+  {
+    "id": 96,
+    "fileIds": [
+      1635
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 8384,
+    "texID": {}
+  },
+  {
+    "id": 97,
+    "fileIds": [
+      3592
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 8384,
+    "texID": {}
+  },
+  {
+    "id": 98,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 99,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 1,
+    "animationDirection": 4,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 100,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 4,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 101,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 3,
+    "animationDirection": 4,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 102,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 4,
+    "animationDirection": 4,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 103,
+    "fileIds": [
+      4664
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 5,
+    "animationDirection": 4,
+    "averageRGB": 55738,
+    "texID": {}
+  },
+  {
+    "id": 104,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 105,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 1,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 106,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 107,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 3,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 108,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 4,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 109,
+    "fileIds": [
+      4665
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 5,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 110,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 111,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 1,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 112,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 2,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 113,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 3,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 114,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 4,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 115,
+    "fileIds": [
+      4666
+    ],
+    "field2293": false,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 5,
+    "animationDirection": 4,
+    "averageRGB": 55606,
+    "texID": {}
+  },
+  {
+    "id": 116,
+    "fileIds": [
+      4667
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5405,
+    "texID": {}
+  },
+  {
+    "id": 117,
+    "fileIds": [
+      4890
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6307,
+    "texID": {}
+  },
+  {
+    "id": 118,
+    "fileIds": [
+      4891
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 6322,
+    "texID": {}
+  },
+  {
+    "id": 119,
+    "fileIds": [
+      4923
+    ],
+    "field2293": true,
+    "field2301": [],
+    "field2296": [],
+    "field2295": [
+      0
+    ],
+    "animationSpeed": 0,
+    "animationDirection": 0,
+    "averageRGB": 5147,
+    "texID": {}
+  }
+]
